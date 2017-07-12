@@ -1,0 +1,7 @@
+node_modules/
+
+settings.sqlite3
+database.json
+
+.DS_Store
+._*
